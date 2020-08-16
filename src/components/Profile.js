@@ -63,7 +63,6 @@ function ItemList ({items}) {
                 </div>
             </div>
 
-
             <div className="posts-wrapper animated fadeInUp" data-animation="fadeInUp-fadeOutDown">
 
                 <h4 className="small-heading border-top">latest</h4>
